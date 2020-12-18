@@ -1,0 +1,24 @@
+#dp {
+  width: 200px;
+}
+
+h1 {
+  color: aqua;
+}
+h2 {
+  color: rgb(140, 38, 236);
+}
+h3 {
+  color: rgb(117, 47, 47);
+}
+body {
+  background: linear-gradient(rgb(224, 132, 132), rgb(117, 182, 204));
+}
+
+hr {
+  width: 50%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: goldenrod;
+}
